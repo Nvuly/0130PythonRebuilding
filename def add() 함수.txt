@@ -1,0 +1,7 @@
+def add(a, b) : # a, b는 매개변수 함수정의. 설계
+    return a+b
+
+print(add(3,4)) 함수 호출 3,4 인수
+
+carculator라는 클래스에 부속되어 잇는 add라는 함수, 메소드
+
